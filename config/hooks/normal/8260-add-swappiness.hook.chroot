@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+# Add swappiness to /etc/sysctl.conf
+echo "vm.swappiness=10" >> /etc/sysctl.conf
