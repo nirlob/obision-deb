@@ -13,10 +13,14 @@
 <li>Set version to /usr/lib/os-release</li>
 <li>Change logos icons</li>
 
-## 0.3 (Date)
+## 0.3 (2023-09-30)
 <li>Activated automatically clean temporal files</li>
 <li>Changed default maps zoom to 2</li>
 <li>View folders first in Nautilus</li>
 <li>Disabled natural scroll for touchpad and mouse</li>
 <li>Added net-tools package, for ifconfig, route, etc. net commands</li>
 <li>Changed background for live menu boot and set background for EFI boot</li>
+<li>Install tlp for manage battery laptop</li>
+
+## 0.4 (Date)
+
