@@ -1,8 +1,8 @@
 # Obision
 
 ## Create pen drive
-- dd if=obision-X.X.iso of=/dev/sdb bs=16M status=progress oflag=sync
-- *Warning*: Can't be /dev/sdb
+- dd if=obision-X.X.iso of=/dev/sda bs=16M status=progress oflag=sync
+- *Warning*: Can't be /dev/sda
 
 ## Resolve error after update kernel 
 - From https://itsfoss.com/dpkg-returned-an-error-code-1/
