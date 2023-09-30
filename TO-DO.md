@@ -18,5 +18,5 @@
   https://askubuntu.com/questions/1027366/how-to-configure-preseed-file-to-make-grub-configuration-point-to-correct-drive
 - Intentar que se abra el terminal maximizado (no se si se puede)
 - Configurar lanzadores de teclado en config - Atajos - Ver y personalizar atajos (Sobre todo la de lanzadores, poner Super+H para carpeta personal y otros lanzadores)
-- Asociar extension .deb al instalador, por defecto abre el descompresor (archivo mimeapps.list o defaults.list)
+- Asociar extension .deb al instalador, por defecto abre el descompresor (archivo mimeapps.list o defaults.list), para bajar un .deb de pruebas esta el de la pagina VirtualBox
 - Quitar opciones LVM del instalador en el paso de particionar disco
