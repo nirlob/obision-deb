@@ -29,4 +29,4 @@
 <li>Install tlp for manage battery laptop</li>
 
 ## 0.4 (Date)
-
+<li>Remove install icon from GNOME in live boot</li>
