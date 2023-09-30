@@ -8,7 +8,7 @@
 - Instalar tema azul descrito en URL-UTILS.md
 - Quitar repositorio de sources.list
 - Instalar extension de Gnome `TopIconsFix` ???
-- Añadir capas a mapas ????
+- Añadir capas a mapas ???? (Han quitado la vista de satelite porque es de pago)
 - Establecer instalador a resolucion fija de 1024x768 (o parecida)
 - Establecer Grub a resolucion fija de 1024x768 (o parecida)
   https://askubuntu.com/questions/1027366/how-to-configure-preseed-file-to-make-grub-configuration-point-to-correct-drive
@@ -16,3 +16,4 @@
 - Configurar lanzadores de teclado en config - Atajos - Ver y personalizar atajos (Sobre todo la de lanzadores, poner Super+H para carpeta personal y otros lanzadores)
 - Asociar extension .deb al instalador, por defecto abre el descompresor (archivo mimeapps.list o defaults.list), para bajar un .deb de pruebas esta el de la pagina VirtualBox
 - Quitar opciones LVM del instalador en el paso de particionar disco
+- Nautilus (Administrador de archivos) Ver primero las carpetas no funciona
