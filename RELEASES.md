@@ -19,3 +19,4 @@
 <li>View folders first in Nautilus</li>
 <li>Disabled natural scroll for touchpad and mouse</li>
 <li>Added net-tools package, for ifconfig, route, etc. net commands</li>
+<li>Changed background for live menu boot and set background for EFI boot</li>

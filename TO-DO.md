@@ -5,8 +5,6 @@
 - fonts-crosextra-caladea
 
 ## Otras opciones pendientes
-- Change background for live menu boot and set background for EFI boot
-- Añadir fondo al live menu boot para UEFI (Segun parece el actual solo sale para MBR)
 - Instalar tema azul descrito en URL-UTILS.md
 - Quitar repositorio de sources.list
 - Instalar extension de Gnome `TopIconsFix` ???
