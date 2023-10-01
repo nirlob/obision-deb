@@ -16,3 +16,4 @@
 - Configurar lanzadores de teclado en config - Atajos - Ver y personalizar atajos (Sobre todo la de lanzadores, poner Super+H para carpeta personal y otros lanzadores) (Probado pero no funciona bien, no se activan)
 - Quitar opciones LVM del instalador en el paso de particionar disco
 - Nautilus (Administrador de archivos) Ver primero las carpetas no funciona
+- Set GDM resolution
