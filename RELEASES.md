@@ -30,3 +30,4 @@
 
 ## 0.4 (Date)
 <li>Remove install icon from GNOME in live boot</li>
+<li>Associate extension .deb to software store</li>
