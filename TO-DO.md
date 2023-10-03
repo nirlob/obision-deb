@@ -18,3 +18,4 @@
 - Set GDM resolution
 - Change Firefox ESR por Firefox normal
 - Quitar fondos de escritorio por defecto y poner los otros
+- Set Grub to resolution 1024x768 or 640x480 (Debe ser durante la instalacion, el instalador genera el /boot/grub/grub.cfg y no hace caso a los parametros probados. Si se genera el /etc/default/grub entonces en el instalador pregunta cual se quiere usar)
