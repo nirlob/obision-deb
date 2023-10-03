@@ -32,6 +32,8 @@ rm -f /usr/share/backgrounds/gnome/vnc-d.webp
 rm -f /usr/share/backgrounds/gnome/vnc-l.webp
 rm -f /usr/share/backgrounds/gnome/wood-d.webp
 rm -f /usr/share/backgrounds/gnome/wood-l.webp
+rm -f /usr/share/backgrounds/gnome/field-d.webp
+rm -f /usr/share/backgrounds/gnome/field-l.webp
 
 rm -f /usr/share/gnome-background-properties/adwaita.xml
 rm -f /usr/share/gnome-background-properties/drool.xml
@@ -44,6 +46,7 @@ rm -f /usr/share/gnome-background-properties/symbolic.xml
 rm -f /usr/share/gnome-background-properties/truchet.xml
 rm -f /usr/share/gnome-background-properties/vnc.xml
 rm -f /usr/share/gnome-background-properties/wood.xml
+rm -f /usr/share/gnome-background-properties/field.xml
 rm -f /usr/share/gnome-background-properties/debian-futureprototype.xml
 rm -f /usr/share/gnome-background-properties/debian-homeworld.xml
 rm -f /usr/share/gnome-background-properties/debian-joy.xml
