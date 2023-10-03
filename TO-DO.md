@@ -16,3 +16,5 @@
 - Quitar opciones LVM del instalador en el paso de particionar disco
 - Nautilus (Administrador de archivos) Ver primero las carpetas no funciona
 - Set GDM resolution
+- Change Firefox ESR por Firefox normal
+- Quitar fondos de escritorio por defecto y poner los otros
