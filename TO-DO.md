@@ -10,7 +10,6 @@
 - Instalar extension de Gnome `TopIconsFix` ???
 - Añadir capas a mapas ???? (Han quitado la vista de satelite porque es de pago)
 - Establecer instalador a resolucion fija de 1024x768 (o parecida)
-- Establecer Grub a resolucion fija de 1024x768 (o parecida)
   https://askubuntu.com/questions/1027366/how-to-configure-preseed-file-to-make-grub-configuration-point-to-correct-drive
 - Intentar que se abra el terminal maximizado (no se si se puede)
 - Configurar lanzadores de teclado en config - Atajos - Ver y personalizar atajos (Sobre todo la de lanzadores, poner Super+H para carpeta personal y otros lanzadores) (Probado pero no funciona bien, no se activan)

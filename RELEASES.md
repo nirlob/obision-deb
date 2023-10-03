@@ -2,6 +2,7 @@
 
 ## Generate new release 
 - Set new tag to the last commit to new version, format vX.X, description Version X.X
+- Pusht tag
 - Remove cache folder before build
 - Before build change LB_IMAGE_NAME version variable in file config/common
 - Before build change the versions of config/includes.chroot_after_packages/usr/lib/os-release
@@ -31,3 +32,4 @@
 ## 0.4 (Date)
 <li>Remove install icon from GNOME in live boot</li>
 <li>Associate extension .deb to software store</li>
+<li>Set Grub to resolution 1024x768 or 640x480</li>
