@@ -33,3 +33,4 @@
 <li>Remove install icon from GNOME in live boot</li>
 <li>Associate extension .deb to software store</li>
 <li>Set Grub to resolution 1024x768 or 640x480</li>
+<li>Remove and added some backgrounds desktop images</li>
