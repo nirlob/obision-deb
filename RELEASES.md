@@ -33,3 +33,4 @@
 <li>Remove install icon from GNOME in live boot</li>
 <li>Associate extension .deb to software store</li>
 <li>Remove and added some backgrounds desktop images</li>
+<li>Change Firefox ESR by Firefox</li>
