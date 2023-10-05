@@ -1,7 +1,7 @@
-PRETTY_NAME="Obision 0.4"
+PRETTY_NAME="Obision 0.5"
 NAME="Obision"
-VERSION_ID="0.4"
-VERSION="0.4"
+VERSION_ID="0.5"
+VERSION="0.5"
 VERSION_CODENAME=bookworm
 ID=debian
 HOME_URL="https://obision.com"
