@@ -3,6 +3,7 @@
 set -e
 
 # remove firefox ESR and install Firefox from Flatpak
-apt remove firefox-esr -y
 # apt autoremove -y (no estoy seguro que funcione bien para otros procesos)
 flatpak install app/org.mozilla.firefox/x86_64/stable -y
+apt remove firefox-esr -y
+# xdg-settings set default-web-browser org.mozilla.firefox.desktop (Da error al hacer build de la ISO)
