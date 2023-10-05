@@ -36,8 +36,10 @@
 <li>Changed background for live menu boot and set background for EFI boot</li>
 <li>Install tlp for manage battery laptop</li>
 
-### 0.4 (Date)
+### 0.4 (2023-10-05)
 <li>Removed install icon from GNOME in live boot</li>
 <li>Associated extension .deb to software store</li>
 <li>Removed and added some backgrounds desktop images</li>
 <li>Changed Firefox ESR by Firefox</li>
+
+### 0.5 (Date)
