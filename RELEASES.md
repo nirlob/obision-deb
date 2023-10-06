@@ -43,3 +43,4 @@
 <li>Changed Firefox ESR by Firefox</li>
 
 ### 0.5 (Date)
+<li>Remove LVM installation options</li>
