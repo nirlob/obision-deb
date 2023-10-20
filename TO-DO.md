@@ -17,3 +17,5 @@
 - Set Grub to resolution 1024x768 or 640x480 (Debe ser durante la instalacion, el instalador genera el /boot/grub/grub.cfg y no hace caso a los parametros probados. Si se genera el /etc/default/grub en el directorio config entonces en el instalador pregunta cual se quiere usar). Si se copia grub.cfg a /boot/grub como esta ahora en /home/jose/Proyectos/obision-deb/config/includes.chroot_after_packages/boot/grub/config.cfg tampoco funciona, segun parece el instalador lo regenera nuevo. Hay que mirarlo
 - Revisar porque en Nautilus no se activa la opcion de ver primero las carpetas
 - Usar archivo de memoria virtual en vez de particion swap
+- GDM - Establecer imagen de fondo
+- GDM - Establecer icono de usuarios. Al menos uno por defecto
