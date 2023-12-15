@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+# remove raspi-firmware (It gives problems when updating the kernel)
+dpkg --purge raspi-firmware

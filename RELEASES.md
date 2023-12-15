@@ -44,3 +44,4 @@
 
 ### 0.5 (Date)
 <li>Remove LVM installation options</li>
+<li>Fix apt error when update kernel</li>
