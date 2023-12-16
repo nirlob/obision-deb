@@ -12,3 +12,8 @@
 - From https://itsfoss.com/dpkg-returned-an-error-code-1/
 - sudo rm /var/lib/dpkg/info/linux-image-*
 - sudo apt update
+
+## Configure GDM
+- Install gdm-tools (Ajustes del gdm en la tienda)
+- Esta herramienta recompila el archivo /usr/share/gnome-shell/gnome-shell-theme.gresource
+- Este archivo copiarlo al directorio config/includes.chroot_after_packages/usr/share/gnome-shell del proyecto cada vez que se modifica

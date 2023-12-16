@@ -16,5 +16,4 @@
 - Set GDM resolution (https://wiki.archlinux.org/title/GDM)
 - Revisar porque en Nautilus no se activa la opcion de ver primero las carpetas
 - Usar archivo de memoria virtual en vez de particion swap
-- GDM - Establecer imagen de fondo
 - GDM - Establecer icono de usuarios. Al menos uno por defecto
