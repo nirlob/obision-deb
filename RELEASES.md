@@ -44,4 +44,6 @@
 
 ### 0.5 (Date)
 <li>Remove LVM installation options</li>
-<li>Fix apt error when update kernel</li>
+<li>Fix apt error package raspi-firmware when update kernel</li>
+<li>Grub not show if Obision is the unique operating system in MBR</li>
+<li>Set GRUB resolution to 1024x768</li>
