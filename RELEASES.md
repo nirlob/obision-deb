@@ -42,9 +42,12 @@
 <li>Removed and added some backgrounds desktop images</li>
 <li>Changed Firefox ESR by Firefox</li>
 
-### 0.5 (Date)
+### 0.5 (2023-12-19)
 <li>Remove LVM installation options</li>
 <li>Fix apt error package raspi-firmware when update kernel</li>
 <li>Grub not show if Obision is the unique operating system in MBR</li>
 <li>Set GRUB resolution to 1024x768</li>
 <li>Customization GDM</li>
+
+### 0.6 (date)
+
