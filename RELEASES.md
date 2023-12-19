@@ -5,7 +5,7 @@
 ### Before generate
 - Set new tag to the last commit to new version, format vX.X, description Version X.X
 - Pusht tag
-- Remove cache folder before build
+- Remove cache folder before build (sudo lb clean --purge)
 - Generate ISO
 
 ### After generate
