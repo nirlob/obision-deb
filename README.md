@@ -22,3 +22,16 @@ Under the folder /var/lib/AccountsService/users you have a similar file [user na
 Language=en_GB
 XSession=ubuntu
 Icon=/var/lib/AccountsService/icons/dad
+
+## NVidia hybrid startup
+For install driver go to the URL https://wiki.debian.org/NvidiaGraphicsDrivers
+
+Additionally, you need to modify the kernel cmd line to have nvidia-drm.modeset=1. For that, my /etc/default/grub reads: (...) marks omissions,)
+GRUB_CMDLINE_LINUX_DEFAULT="(...) nvidia-drm.modeset=1"
+
+You also want to enable some modules parameters to instruct the nvidia kernel module to backup gpu memory on suspend to ram, otherwise stuff will not be rendered correctly after s2r returns:
+
+For that, my "/etc/modprobe.d/nvidia-kernel-common.conf" contains:
+options nvidia NVreg_PreserveVideoMemoryAllocations=1 NVreg_TemporaryFilePath=/var/cache/nvidia
+
+(possibly, can't remember, you need to mkdir /var/cache/nvidia yourself)
