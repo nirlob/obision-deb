@@ -35,3 +35,6 @@ For that, my "/etc/modprobe.d/nvidia-kernel-common.conf" contains:
 options nvidia NVreg_PreserveVideoMemoryAllocations=1 NVreg_TemporaryFilePath=/var/cache/nvidia
 
 (possibly, can't remember, you need to mkdir /var/cache/nvidia yourself)
+
+# GIT
+git config --global user.name "Jose Francisco Gonzalez" && git config --global user.email jfgs1609@gmail.com
