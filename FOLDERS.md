@@ -39,3 +39,6 @@ Images for grub
 
 ### config/includes.chroot_after_packages/usr/share/gnome-background-properties
 XMLs for logos images
+
+### config/includes.chroot_after_packages/var/lib/AccountsService
+Default directory for GDM users properties
