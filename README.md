@@ -13,6 +13,9 @@
 - Esta herramienta recompila el archivo /usr/share/gnome-shell/gnome-shell-theme.gresource
 - Este archivo copiarlo al directorio config/includes.chroot_after_packages/usr/share/gnome-shell del proyecto cada vez que se modifica
 
+Esto no funciona si el archivo gnome-shell-theme.gresource ya esta modificado e instalado una vez. Las instrucciones para editar gnome-shell-theme estan
+en la URL https://wiki.archlinux.org/title/GDM#Log-in_screen_background_image
+
 ## Icono de usuario de instalacion para GDM
 Pictures are stored in the folder /var/lib/AccountsService/icons/[user name]
 The [user name] is of type image/png format with a size of 96x96 pixels
