@@ -1,2 +1,5 @@
 [org/gnome/desktop/interface]
-text-scaling-factor=1.75
+text-scaling-factor=1.5
+
+[org/gnome/login-screen]
+logo='/usr/share/desktop-base/debian-logos/logo-text-version-128.png'
