@@ -50,4 +50,5 @@
 <li>Customization GDM</li>
 
 ### 0.6 (date)
+<li>GDM fix logo and font scaling</li>
 
