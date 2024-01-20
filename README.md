@@ -43,3 +43,6 @@ options nvidia NVreg_PreserveVideoMemoryAllocations=1 NVreg_TemporaryFilePath=/v
 
 # GIT
 git config --global user.name "Jose Francisco Gonzalez" && git config --global user.email jfgs1609@gmail.com
+
+# Example lb config
+lb config --mode debian --system live --interactive shell --distribution bookworm --debian-installer live --architecture amd64 --archive-areas main contrib non-free --security true --updates true --binary-images iso-hybrid --memtest memtest86+
