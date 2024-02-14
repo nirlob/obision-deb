@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Blender
+Comment=Install Blender drawing app
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.blender.Blender.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/blender.png
+StartupNotify=true
+Terminal=false
+Type=Application

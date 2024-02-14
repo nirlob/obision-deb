@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Visual Studio Code
+Comment=Visual Studio Code IDE
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.visualstudio.code.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/vscode.png
+StartupNotify=true
+Terminal=false
+Type=Application

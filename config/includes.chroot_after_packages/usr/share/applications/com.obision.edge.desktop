@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Edge
+Comment=Install Microsoft Edge browser
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.microsoft.Edge.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/edge.png
+StartupNotify=true
+Terminal=false
+Type=Application
