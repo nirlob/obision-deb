@@ -19,3 +19,4 @@
 - GDM - Establecer icono de usuarios. Al menos uno por defecto
 - En instalador no mostrar pantalla que pide el dominio, la que aparece despues del nombre de la maquina
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
+- Añadir a la pantalla de aplicaciones una carpeta con enlaces a la tienda para instalar por ejemplo otros navegadores, libre office, etc (no se si se podra hacer)
