@@ -4,6 +4,6 @@ Comment=Install LibreOffice
 OnlyShowIn=GNOME;Unity;
 Exec=xdg-open /usr/share/applications/apps-for-install/org.libreoffice.LibreOffice.flatpakref
 Icon=/usr/share/applications/apps-for-install/icons/libreoffice-logo.png
-StartupNotify=true
+StartupNotify=false
 Terminal=false
 Type=Application

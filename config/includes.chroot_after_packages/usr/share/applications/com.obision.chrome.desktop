@@ -4,6 +4,6 @@ Comment=Install Google Chrome browser
 OnlyShowIn=GNOME;Unity;
 Exec=xdg-open /usr/share/applications/apps-for-install/com.google.Chrome.flatpakref
 Icon=/usr/share/applications/apps-for-install/icons/chrome.png
-StartupNotify=true
+StartupNotify=false
 Terminal=false
 Type=Application

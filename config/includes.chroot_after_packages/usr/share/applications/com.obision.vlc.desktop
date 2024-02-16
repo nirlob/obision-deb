@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VLC
+Comment=Best multimedia player
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.videolan.VLC.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/vlc.png
+StartupNotify=false
+Terminal=false
+Type=Application

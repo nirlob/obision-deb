@@ -4,6 +4,6 @@ Comment=Install Opera browser
 OnlyShowIn=GNOME;Unity;
 Exec=xdg-open /usr/share/applications/apps-for-install/com.opera.Opera.flatpakref
 Icon=/usr/share/applications/apps-for-install/icons/opera.png
-StartupNotify=true
+StartupNotify=false
 Terminal=false
 Type=Application

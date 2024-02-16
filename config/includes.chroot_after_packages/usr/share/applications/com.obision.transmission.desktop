@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Transmission
+Comment=Torrent client
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.transmissionbt.Transmission.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/transmission.png
+StartupNotify=false
+Terminal=false
+Type=Application

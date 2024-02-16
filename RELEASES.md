@@ -51,4 +51,5 @@
 
 ### 0.6 (date)
 <li>GDM fix logo and font scaling</li>
+<li>Added folder in applications screen with optional apps for install</li>
 

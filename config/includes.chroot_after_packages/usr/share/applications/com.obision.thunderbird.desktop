@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Thunderbird
+Comment=E-mail client
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.mozilla.Thunderbird.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/thunderbird.png
+StartupNotify=false
+Terminal=false
+Type=Application

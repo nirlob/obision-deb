@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=IntelliJ
+Comment=Install IntelliJ develop IDE
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.jetbrains.IntelliJ-IDEA-Community.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/intellij.png
+StartupNotify=false
+Terminal=false
+Type=Application

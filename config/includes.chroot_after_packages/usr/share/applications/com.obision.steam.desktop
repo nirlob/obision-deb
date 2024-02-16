@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Steam
+Comment=Games installer and launcher
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.valvesoftware.Steam.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/steam.png
+StartupNotify=false
+Terminal=false
+Type=Application

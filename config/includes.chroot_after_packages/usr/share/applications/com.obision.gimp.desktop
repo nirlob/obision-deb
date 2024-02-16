@@ -4,6 +4,6 @@ Comment=Install GIMP
 OnlyShowIn=GNOME;Unity;
 Exec=xdg-open /usr/share/applications/apps-for-install/org.gimp.GIMP.flatpakref
 Icon=/usr/share/applications/apps-for-install/icons/gimp.png
-StartupNotify=true
+StartupNotify=false
 Terminal=false
 Type=Application
