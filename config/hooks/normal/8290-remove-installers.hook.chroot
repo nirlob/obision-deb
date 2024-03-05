@@ -1,9 +1,0 @@
-#!/bin/sh
-
-set -e
-
-# remove installers
-apt remove calamares* -y
-apt remove debian-installer* -y
-
-apt autoremove
