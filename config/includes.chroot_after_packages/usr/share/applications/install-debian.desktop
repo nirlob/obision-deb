@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Obision
+GenericName=Calamares Installer
+Exec=su-to-root -c install-debian
+Comment=Calamares — Installer for Obision
+Keywords=calamares;system;install;obision;installer
+Icon=install-debian
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

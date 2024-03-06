@@ -9,3 +9,5 @@ build.log
 chroot.*
 obision*
 .lock
+
+!obision-logo.png

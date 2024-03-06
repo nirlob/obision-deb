@@ -1,2 +1,5 @@
 # For use the installer from live edit the file /usr/share/debian-installer-launcher/debconf-kernel.sh and remove the test of kernel versions
 rm -f /usr/share/applications/debian-installer-launcher.desktop
+
+# Delete KDE icons
+rm -f /usr/share/applications/kdesystemsettings.desktop

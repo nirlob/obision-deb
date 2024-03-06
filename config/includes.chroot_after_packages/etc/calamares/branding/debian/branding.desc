@@ -3,26 +3,22 @@ componentName:   debian
 welcomeStyleCalamares: true
 welcomeExpandingLogo: true
 windowExpanding: normal
-windowSize: 800px,520px
+windowSize: 800px,470px
 windowPlacement: center
 
 strings:
-    productName:         Obision pn
-    shortProductName:    Obision spn
-    version:             0.6 v
-    shortVersion:        0.6 sv
-    versionedName:       Obision 12 (bookworm) vn
-    shortVersionedName:  Obision 12 sv
+    productName:         Obision
+    shortProductName:    Obision
+    version:             0.6
+    shortVersion:        0.6
+    versionedName:       Obision 0.6
+    shortVersionedName:  Obision 0.6
     bootloaderEntryName: Obision boot
-    productUrl:          https://debian.org
-    supportUrl:          https://www.debian.org/support
-    knownIssuesUrl:      https://bugs.debian.org
-    releaseNotesUrl:     https://www.debian.org/releases/bookworm/releasenotes
-    donateUrl:           https://www.debian.org
+    productUrl:          https://obision.com
 
 images:
-    productLogo:         "debian-logo.png"
-    productIcon:         "debian-logo.png"
+    productLogo:         "obision-logo.png"
+    productIcon:         "obision-logo.png"
     productWelcome:      "welcome.png"
     # productWallpaper:  "wallpaper.png"
 

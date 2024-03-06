@@ -11,6 +11,7 @@
 ### After generate
 - Change LB_IMAGE_NAME version variable in file config/common
 - Change the versions of config/includes.chroot_after_packages/usr/lib/os-release
+- Change versions of config/includes.chroot_after_packages/etc/calamares/branding/debian/branding.desc
 
 ## Releases
 
