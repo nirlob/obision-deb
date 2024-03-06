@@ -54,4 +54,5 @@
 <li>GDM fix logo and font scaling</li>
 <li>Added folder in applications screen with optional apps for install</li>
 <li>Removed VLC and Transmission installation and added to new folder of optionals applications</li>
+<li>Added and configure Calamares installer</li>
 
