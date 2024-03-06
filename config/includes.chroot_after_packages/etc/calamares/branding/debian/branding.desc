@@ -17,8 +17,8 @@ strings:
     productUrl:          https://obision.com
 
 images:
-    productLogo:         "obision-logo.png"
-    productIcon:         "obision-logo.png"
+    productLogo:         "debian-logo.png"
+    productIcon:         "debian-logo.png"
     productWelcome:      "welcome.png"
     # productWallpaper:  "wallpaper.png"
 
