@@ -7,7 +7,7 @@ local/
 binary.modified_timestamps
 build.log
 chroot.*
-obision*
+obision-*
 .lock
 
 !obision-logo.png

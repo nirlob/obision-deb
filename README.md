@@ -47,7 +47,4 @@ git config --global user.name "Jose Francisco Gonzalez" && git config --global u
 # Example lb config
 lb config --mode debian --system live --interactive shell --distribution bookworm --debian-installer live --architecture amd64 --archive-areas main contrib non-free --security true --updates true --binary-images iso-hybrid --memtest memtest86+
 
-
---Activate icon for launch from desktop
-To set a launcher as trusted from the command line, run:
-gio set /path/to/your/launcher.desktop "metadata::trusted" true
+sudo update-initramfs -u -k all

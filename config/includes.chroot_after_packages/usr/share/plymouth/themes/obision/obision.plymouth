@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Obision theme
+Description=A theme that features an obision logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/obision
+ScriptFile=/usr/share/plymouth/themes/obision/obision.script
