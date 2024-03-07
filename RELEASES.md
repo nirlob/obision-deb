@@ -4,7 +4,7 @@
 
 ### Before generate
 - Set new tag to the last commit to new version, format vX.X, description Version X.X
-- Pusht tag
+- Push tag
 - Remove cache folder before build (sudo lb clean --purge)
 - Generate ISO
 
@@ -50,9 +50,10 @@
 <li>Set GRUB resolution to 1024x768</li>
 <li>Customization GDM</li>
 
-### 0.6 (date)
+### 0.6 (2024-03-07)
 <li>GDM fix logo and font scaling</li>
 <li>Added folder in applications screen with extra apps for install</li>
 <li>Removed VLC and Transmission installation and added to new folder of optionals applications</li>
 <li>Added and configured Calamares installer from desktop</li>
 
+### 0.7 (Date)
