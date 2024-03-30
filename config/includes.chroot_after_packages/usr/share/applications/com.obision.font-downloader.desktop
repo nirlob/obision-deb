@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Font Downloader
+Comment=Install Font Downloader
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.gustavoperedo.FontDownloader.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/foontdownloader.png
+StartupNotify=false
+Terminal=false
+Type=Application

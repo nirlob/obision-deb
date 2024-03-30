@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Inkscape
+Comment=Install Inkscape drawing app
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.inkscape.Inkscape.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/inkscape.png
+StartupNotify=false
+Terminal=false
+Type=Application

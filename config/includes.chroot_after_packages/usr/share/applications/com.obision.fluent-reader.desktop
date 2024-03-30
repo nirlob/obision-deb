@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Fluent Reader
+Comment=Install Blender drawing app
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/me.hyliu.fluentreader.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/fluentreader.png
+StartupNotify=false
+Terminal=false
+Type=Application

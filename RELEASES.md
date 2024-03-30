@@ -57,3 +57,4 @@
 <li>Added and configured Calamares installer from desktop</li>
 
 ### 0.7 (Date)
+<li>Added more applicattions to the extra apps folder in applications</li>

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Krita
+Comment=Install Krita Application
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.kde.krita.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/krita.png
+StartupNotify=false
+Terminal=false
+Type=Application

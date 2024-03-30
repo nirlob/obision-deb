@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DBeaver
+Comment=Install DBeaver community
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/io.dbeaver.DBeaverCommunity.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/dbeaver.png
+StartupNotify=false
+Terminal=false
+Type=Application

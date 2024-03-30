@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Calibre
+Comment=Install Calibre ebooks reader
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.calibre_ebook.calibre.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/calibre.png
+StartupNotify=false
+Terminal=false
+Type=Application

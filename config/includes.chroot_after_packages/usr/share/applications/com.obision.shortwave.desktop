@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Shortwave
+Comment=Install Shortwave radio
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/de.haeckerfelix.Shortwave.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/shortwave.png
+StartupNotify=false
+Terminal=false
+Type=Application

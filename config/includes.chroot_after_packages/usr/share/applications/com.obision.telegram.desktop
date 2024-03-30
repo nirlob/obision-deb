@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Telegram
+Comment=Install Telegram
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.telegram.desktop.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/telegram.png
+StartupNotify=false
+Terminal=false
+Type=Application

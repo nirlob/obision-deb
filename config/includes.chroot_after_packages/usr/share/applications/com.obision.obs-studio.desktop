@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OBS Studio
+Comment=Install OBS Studio
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.obsproject.Studio.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/obs-studio.png
+StartupNotify=false
+Terminal=false
+Type=Application
