@@ -21,3 +21,4 @@
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
 - (MEJOR QUE NO) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras
 - Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
+- En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR
