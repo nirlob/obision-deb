@@ -58,3 +58,4 @@
 
 ### 0.7 (Date)
 <li>Added more applicattions to the extra apps folder in applications</li>
+<li>Modified UEFI menu boot for install</li>
