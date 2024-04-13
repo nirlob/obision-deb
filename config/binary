@@ -16,7 +16,7 @@ LB_BOOTAPPEND_LIVE="boot=live components"
 LB_BOOTAPPEND_INSTALL=""
 
 # Set boot parameters
-LB_BOOTAPPEND_LIVE_FAILSAFE="boot=live components memtest noapic noapm nodma nomce nolapic nomodeset nosmp nosplash vga=788"
+LB_BOOTAPPEND_LIVE_FAILSAFE="boot=live components memtest noapic noapm nodma nomce nolapic nomodeset nosmp nosplash vga=791"
 
 # Set BIOS bootloader
 LB_BOOTLOADER_BIOS="syslinux"
