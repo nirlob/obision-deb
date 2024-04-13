@@ -58,5 +58,7 @@
 
 ### 0.7 (Date)
 <li>Added more applicattions to the extra apps folder in applications</li>
-<li>Modified GRUB menu boot install for 1024x768 resolution</li>
+<li>Modified GRUB menu boot install to 1024x768 resolution</li>
 <li>Remve UEFI menu boot install options</li>
+<li>Change default desktop background</li>
+<li>Added more desktop backgrounds</li>
