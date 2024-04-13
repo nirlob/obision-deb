@@ -1,6 +1,7 @@
 # Obision
 
-## Create pen drive
+## Create pen drive (No parece funcionar mejor grabar con Balena etcher)
+- umount /dev/sda
 - dd if=obision-X.X.iso of=/dev/sda bs=16M status=progress oflag=sync
 - *Warning*: Can't be /dev/sda
 

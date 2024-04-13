@@ -19,5 +19,5 @@
 - GDM - Establecer icono de usuarios. Al menos uno por defecto
 - En instalador no mostrar pantalla que pide el dominio, la que aparece despues del nombre de la maquina
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
-- Añadir wps office (como office), monitorest (info y administrador sistema) y solitario aisleriot a carpeta extra apps
 - (MEJOR QUE NO) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras
+- Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
