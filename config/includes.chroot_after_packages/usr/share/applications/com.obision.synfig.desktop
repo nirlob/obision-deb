@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Synfig
+Comment=Install Synfig
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.synfig.SynfigStudio.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/synfig.png
+StartupNotify=false
+Terminal=false
+Type=Application

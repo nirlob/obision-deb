@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Audacity
+Comment=Install Audacity
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.audacityteam.Audacity.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/audacity.png
+StartupNotify=false
+Terminal=false
+Type=Application

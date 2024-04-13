@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Scribus
+Comment=Install Scribus
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/net.scribus.Scribus.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/scribus.png
+StartupNotify=false
+Terminal=false
+Type=Application

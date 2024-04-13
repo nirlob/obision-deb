@@ -19,5 +19,5 @@
 - GDM - Establecer icono de usuarios. Al menos uno por defecto
 - En instalador no mostrar pantalla que pide el dominio, la que aparece despues del nombre de la maquina
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
-- Añadir darktable (administrador de fotografias), audacity (editor de audio), mixxx (para DJs), photopea (alternativa photoshop), natron (composicion de video), scribus (crear folletos, libros, etc.), synfig studio (crear animaciones en 2D), lmms (editor de audio), pencil2D y opentoonz (animacion 2D), wps office (como office), stacer (info y administrador sistema) y solitario aisleriot a carpeta extra apps
-- (no estoy seguro) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras
+- Añadir wps office (como office), monitorest (info y administrador sistema) y solitario aisleriot a carpeta extra apps
+- (MEJOR QUE NO) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras

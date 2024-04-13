@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Natron
+Comment=Install Natron
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/fr.natron.Natron.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/natron.png
+StartupNotify=false
+Terminal=false
+Type=Application

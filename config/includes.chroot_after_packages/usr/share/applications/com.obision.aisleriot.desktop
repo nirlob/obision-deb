@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Aisleriot
+Comment=Install Aisleriot
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.gnome.Aisleriot.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/Aisleriot.png
+StartupNotify=false
+Terminal=false
+Type=Application

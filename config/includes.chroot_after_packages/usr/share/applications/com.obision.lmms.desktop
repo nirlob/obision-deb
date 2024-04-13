@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LMSS
+Comment=Install LMMS
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/io.lmms.LMMS.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/lmms.png
+StartupNotify=false
+Terminal=false
+Type=Application

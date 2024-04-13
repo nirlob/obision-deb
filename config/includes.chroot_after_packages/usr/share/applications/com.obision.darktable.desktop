@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Darktable
+Comment=Install Darktable
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.darktable.Darktable.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/darktable.png
+StartupNotify=false
+Terminal=false
+Type=Application

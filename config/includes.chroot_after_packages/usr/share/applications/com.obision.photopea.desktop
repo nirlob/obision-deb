@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Photopea
+Comment=Install Photopea
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.github.vikdevelop.photopea_app.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/photopea.svg
+StartupNotify=false
+Terminal=false
+Type=Application

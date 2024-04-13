@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mixxx
+Comment=Install Mixxx
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.mixxx.Mixxx.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/mixxx.png
+StartupNotify=false
+Terminal=false
+Type=Application

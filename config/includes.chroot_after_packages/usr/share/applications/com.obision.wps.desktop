@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WPS Office
+Comment=Install WPS Office
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.wps.Office.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/wps.png
+StartupNotify=false
+Terminal=false
+Type=Application
