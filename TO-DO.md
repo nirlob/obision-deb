@@ -24,3 +24,4 @@
 - En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR
 - Añadir mas fondos de escritorio
 - Establecer arranque de instalacion en MBR a 1024x768, ahora arranca en 800x600. En UEFI si esta configurado
+- Añadir boton de lupa en el area de notificaciones de GNOME para hacer busquedas (No se si existira extension)
