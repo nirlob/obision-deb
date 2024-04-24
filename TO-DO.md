@@ -21,8 +21,7 @@
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
 - (MEJOR QUE NO) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras
 - Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
-- En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR
+- En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR (Hecho, sale menu con solo 2 opciones)
 - Añadir mas fondos de escritorio
 - Establecer arranque de instalacion en MBR a 1024x768, ahora arranca en 800x600. En UEFI si esta configurado
-- Añadir boton de lupa en el area de notificaciones de GNOME para hacer busquedas (No se si existira extension)
-- Configurar arranque seguro para bios con seguridad
+- Añadir boton de lupa en el area de notificaciones de GNOME para hacer busquedas (No se si existira extension) (Tendre que hacerla yo, lo dejo para mas adelante)

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+# Ejemplo para instalar aplicaciones flatpak en la ISO
+#flatpak install flathub xyz.ketok.Speedtest (No funciona pide libreria y da error al hacer el build de la distro)
