@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GNOME Boxes
+Comment=Install GNOME Boxes
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/org.gnome.Boxes.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/boxes.png
+StartupNotify=false
+Terminal=false
+Type=Application
