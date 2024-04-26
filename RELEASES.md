@@ -56,9 +56,12 @@
 <li>Removed VLC and Transmission installation and added to new folder of optionals applications</li>
 <li>Added and configured Calamares installer from desktop</li>
 
-### 0.7 (Date)
+### 0.7 (2024-04-26)
 <li>Added more applicattions to the extra apps folder in applications</li>
 <li>Modified GRUB menu boot install to 1024x768 resolution</li>
 <li>Remve UEFI menu boot install options</li>
 <li>Change default desktop background</li>
 <li>Added more desktop backgrounds</li>
+
+### 0.8 (Date)
+<li></li>
