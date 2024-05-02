@@ -64,4 +64,6 @@
 <li>Added more desktop backgrounds</li>
 
 ### 0.8 (Date)
-<li></li>
+<li>Added shortcuts Super+F for search, Super+I for home, Super+E for email, Super+W for browser and Super+T for terminal</li>
+<li>Changed name from Extra apps to Instalable apps</li>
+<li>Added minimize button to windows title</li>

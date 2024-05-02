@@ -25,3 +25,6 @@
 - Añadir mas fondos de escritorio
 - Establecer arranque de instalacion en MBR a 1024x768, ahora arranca en 800x600. En UEFI si esta configurado
 - Añadir boton de lupa en el area de notificaciones de GNOME para hacer busquedas (No se si existira extension) (Tendre que hacerla yo, lo dejo para mas adelante)
+- Boton minimizar en aplicaciones
+- Actualizar kernel y gnome ?????????
+- Añadir carpeta de apps instalables en escritorio (Es dificil)
