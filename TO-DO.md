@@ -1,8 +1,6 @@
 # TO-DO
 ## Paquetes de fuentes Windows para posible instalacion con APT
-- ttf-mscorefonts-installer
-- fonts-crosextra-carlito 
-- fonts-crosextra-caladea
+- ttf-mscorefonts-installer (No esta en los repositorios)
 
 ## Otras opciones pendientes
 - Instalar tema azul descrito en URL-UTILS.md
@@ -19,12 +17,14 @@
 - GDM - Establecer icono de usuarios. Al menos uno por defecto
 - En instalador no mostrar pantalla que pide el dominio, la que aparece despues del nombre de la maquina
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
-- (MEJOR QUE NO) Añadir otras tiendas de aplicaciones como snap, rpm? y buscar otras
 - Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
 - En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR (Hecho, sale menu con solo 2 opciones) (Esta hecho con el menu esperando a 5 segundos)
 - Añadir mas fondos de escritorio
 - Establecer arranque de instalacion en MBR a 1024x768, ahora arranca en 800x600. En UEFI si esta configurado
-- Añadir boton de lupa en el area de notificaciones de GNOME para hacer busquedas (No se si existira extension) (Tendre que hacerla yo, lo dejo para mas adelante)
-- Boton minimizar en aplicaciones
-- Actualizar kernel y gnome ?????????
+- Actualizar kernel y gnome ????????? (Para esto hay que usar los repositorios testing)
 - Añadir carpeta de apps instalables en escritorio (Es dificil)
+- Arreglar plymouth (imagen de carga) cuando hay varios monitores
+- Mirar plymouth para mostrar pantalla de carga antes, ahora tarda un poco en salir
+- Con varios monitores si se aumenta la escala en la primera pantall tambien se aumenta en la segunda
+- No funciona el custom acelerador Super+T para abrir terminal, esta configurado en gnome-global-config.ini pero no asigna el valor 'custom-keybindings'
+- Quitar referencias a debian-installer (Si no se instala no sale el icono de instalacion al arrancar en modo live)
