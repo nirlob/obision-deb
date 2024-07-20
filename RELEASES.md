@@ -68,3 +68,4 @@
 <li>Changed name from Extra apps to Instalables apps</li>
 <li>Added minimize button to windows title</li>
 <li>Packages fonts by fonts-crosextra-carlito and fonts-crosextra-caladea</li>
+<li>Added GNOME Connections to remote desktop admin</li>
