@@ -65,7 +65,7 @@
 
 ### 0.8 (Date)
 <li>Added shortcuts Super+F for search, Super+I for home, Super+E for email, Super+W for browser and Super+T for terminal</li>
-<li>Changed name from Extra apps to Instalables apps</li>
+<li>Changed name from Extra apps to Instalable apps</li>
 <li>Added minimize button to windows title</li>
 <li>Packages fonts by fonts-crosextra-carlito and fonts-crosextra-caladea</li>
 <li>Added GNOME Connections to remote desktop admin</li>
