@@ -28,3 +28,4 @@
 - Con varios monitores si se aumenta la escala en la primera pantall tambien se aumenta en la segunda
 - No funciona el custom acelerador Super+T para abrir terminal, esta configurado en gnome-global-config.ini pero no asigna el valor 'custom-keybindings'
 - Quitar referencias a debian-installer (Si no se instala no sale el icono de instalacion al arrancar en modo live)
+- Mirar porque en /etc/apt/sources.list los repositorios no tienen ni contrib ni non-free despues de instalacion
