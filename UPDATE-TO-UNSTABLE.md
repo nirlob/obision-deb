@@ -15,6 +15,6 @@ Package: *
 Pin: release a=unstable
 Pin-Priority: 100
 
-3) sudo apt update
+3) sudo apt update (Puede que haya que añadir la opcion "-t unstable")
 
-4) sudo apt upgrade, si da error (paquetes retenidos) ejecutar sudo apt full-upgrade
+4) sudo apt upgrade, si da error (paquetes retenidos) ejecutar sudo apt full-upgrade (Puede que haya que añadir la opcion "-t unstable")
