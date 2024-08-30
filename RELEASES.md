@@ -63,10 +63,12 @@
 <li>Change default desktop background</li>
 <li>Added more desktop backgrounds</li>
 
-### 0.8 (Date)
+### 0.8 (2024-08-30)
 <li>Added shortcuts Super+F for search, Super+I for home, Super+E for email, Super+W for browser and Super+T for terminal</li>
 <li>Changed name from Extra apps to Instalable apps</li>
 <li>Added minimize button to windows title</li>
 <li>Packages fonts by fonts-crosextra-carlito and fonts-crosextra-caladea</li>
 <li>Added GNOME Connections to remote desktop admin</li>
 <li>Changed dock and top panel color to dark gray</li>
+
+### 0.9 (Date)
