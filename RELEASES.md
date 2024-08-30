@@ -69,3 +69,4 @@
 <li>Added minimize button to windows title</li>
 <li>Packages fonts by fonts-crosextra-carlito and fonts-crosextra-caladea</li>
 <li>Added GNOME Connections to remote desktop admin</li>
+<li>Changed dock and top panel color to dark gray</li>
