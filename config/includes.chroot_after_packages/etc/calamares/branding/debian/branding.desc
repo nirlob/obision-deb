@@ -1,5 +1,5 @@
 ---
-componentName:   debian
+componentName: Obision
 welcomeStyleCalamares: true
 welcomeExpandingLogo: true
 windowExpanding: normal
@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         Obision
     shortProductName:    Obision
-    version:             0.8
-    shortVersion:        0.8
-    versionedName:       Obision 0.8
-    shortVersionedName:  Obision 0.8
+    version:             0.9
+    shortVersion:        0.9
+    versionedName:       Obision 0.9
+    shortVersionedName:  Obision 0.9
     bootloaderEntryName: Obision boot
     productUrl:          https://obision.com
 
