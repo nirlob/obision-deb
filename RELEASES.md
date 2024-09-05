@@ -72,3 +72,4 @@
 <li>Changed dock and top panel color to dark gray</li>
 
 ### 0.9 (Date)
+<li>Changed grub first option from 'Debian GNU/Linux' to 'Obision GNU/Linux'</li>
