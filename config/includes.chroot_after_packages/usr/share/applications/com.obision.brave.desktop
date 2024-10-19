@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Brave
+Comment=Install Brave browser
+OnlyShowIn=GNOME;Unity;
+Exec=xdg-open /usr/share/applications/apps-for-install/com.brave.Browser.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/brave.png
+StartupNotify=false
+Terminal=false
+Type=Application
