@@ -9,11 +9,9 @@
 - Añadir capas a mapas ???? (Han quitado la vista de satelite porque es de pago)
 - Establecer instalador a resolucion fija de 1024x768 (o parecida)
   https://askubuntu.com/questions/1027366/how-to-configure-preseed-file-to-make-grub-configuration-point-to-correct-drive
-- Intentar que se abra el terminal maximizado (no se si se puede)
 - Configurar lanzadores de teclado en config - Atajos - Ver y personalizar atajos (Sobre todo la de lanzadores, poner Super+H para carpeta personal y otros lanzadores) (Probado pero no funciona bien, no se activan)
 - Set GDM resolution (https://wiki.archlinux.org/title/GDM)
 - Revisar porque en Nautilus no se activa la opcion de ver primero las carpetas
-- Usar archivo de memoria virtual en vez de particion swap
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
 - Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
 - En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR (Hecho, sale menu con solo 2 opciones) (Esta hecho con el menu esperando a 5 segundos)
