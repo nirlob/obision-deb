@@ -73,3 +73,8 @@
 
 ### 0.9 (Date)
 <li>Changed grub first option from 'Debian GNU/Linux' to 'Obision GNU/Linux'</li>
+<li>Add Brave browser to optional install applications</li>
+<li>Added contrib and non-free in sources.list repositories</li>
+<li>Super+T shortcut opens the terminal</li>
+<li>Activate GeoIP to calamares installer</li>
+<li>No create swap partition when install</li>

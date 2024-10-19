@@ -14,18 +14,14 @@
 - Set GDM resolution (https://wiki.archlinux.org/title/GDM)
 - Revisar porque en Nautilus no se activa la opcion de ver primero las carpetas
 - Usar archivo de memoria virtual en vez de particion swap
-- GDM - Establecer icono de usuarios. Al menos uno por defecto
-- En instalador no mostrar pantalla que pide el dominio, la que aparece despues del nombre de la maquina
 - En EFI arranque si no hay mas de un sistema operativo no mostrar GRUB y arrancar directamente con el splash del ordenador, como Windows
 - Opcion de añadir al instalador opciones para no instalar la tienda de aplicaciones o la carpeta de "Extra apps" o algun software mas
 - En modo UEFI mirar si se puede poner la primera opcion al arrancar desde pen o iso para que salga el escritorio directamente, como en arranque MBR (Hecho, sale menu con solo 2 opciones) (Esta hecho con el menu esperando a 5 segundos)
 - Añadir mas fondos de escritorio
 - Establecer arranque de instalacion en MBR a 1024x768, ahora arranca en 800x600. En UEFI si esta configurado
 - Actualizar kernel y gnome ????????? (Para esto hay que usar los repositorios testing)
-- Añadir carpeta de apps instalables en escritorio (Es dificil)
+- Añadir carpeta de apps instalables en escritorio (Es dificil, muy dificil, no funciona esto: ln -s /usr/share/applications/code.desktop code) (mirar archivo install-debian.desktop, puede ayudar)
 - Arreglar plymouth (imagen de carga) cuando hay varios monitores
 - Mirar plymouth para mostrar pantalla de carga antes, ahora tarda un poco en salir
 - Con varios monitores si se aumenta la escala en la primera pantall tambien se aumenta en la segunda
-- No funciona el custom acelerador Super+T para abrir terminal, esta configurado en gnome-global-config.ini pero no asigna el valor 'custom-keybindings'
 - Quitar referencias a debian-installer (Si no se instala no sale el icono de instalacion al arrancar en modo live)
-- Mirar porque en /etc/apt/sources.list los repositorios no tienen ni contrib ni non-free despues de instalacion
