@@ -77,4 +77,4 @@
 <li>Added contrib and non-free in sources.list repositories</li>
 <li>Super+T shortcut opens the terminal</li>
 <li>Activate GeoIP to calamares installer</li>
-<li>No create swap partition when install</li>
+<li>Option for select file or create swap partition when install</li>
