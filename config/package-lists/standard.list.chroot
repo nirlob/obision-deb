@@ -13,3 +13,4 @@ fonts-crosextra-caladea
 gnome-connections
 nvidia-detect
 hwinfo
+systemd-timesyncd
