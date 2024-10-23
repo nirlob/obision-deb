@@ -14,7 +14,7 @@ Merge changes into your local branch:
 Checkout your fork’s local branch (e.g., master) using git checkout master.
 Merge the upstream branch (e.g., upstream/master) into your local branch using git merge upstream/master --no-ff.
 
-Commit and push changes:
+Commit and push changess:
 Add changes using git add ..
 Commit the changes with a meaningful message using git commit -m "Sync with upstream repository.".
 Push the changes to your forked repository on GitHub using git push origin master.
