@@ -9,8 +9,8 @@ Verify the new remote using git remote -v.
 
 Fetch changes from the upstream repository:
 Run git fetch upstream to retrieve the latest commits from the upstream repository.
-Merge changes into your local branch:
 
+Merge changes into your local branch:
 Checkout your fork’s local branch (e.g., master) using git checkout master.
 Merge the upstream branch (e.g., upstream/master) into your local branch using git merge upstream/master --no-ff.
 
