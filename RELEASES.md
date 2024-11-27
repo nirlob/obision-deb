@@ -11,7 +11,7 @@
 ### After generate
 - Change LB_IMAGE_NAME version variable in file config/common
 - Change the versions of config/includes.chroot_after_packages/usr/lib/os-release
-- Change versions of config/includes.chroot_after_packages/etc/calamares/branding/debian/branding.desc
+- Change versions of config/includes.chroot_after_packages/etc/calamares/branding/obision/branding.desc
 
 ## Releases
 
@@ -71,11 +71,7 @@
 <li>Added GNOME Connections to remote desktop admin</li>
 <li>Changed dock and top panel color to dark gray</li>
 
-### 0.9 (Date)
-<li>Changed grub first option from 'Debian GNU/Linux' to 'Obision GNU/Linux'</li>
-<li>Add Brave browser to optional install applications</li>
-<li>Added contrib and non-free in sources.list repositories</li>
-<li>Super+T shortcut opens the terminal</li>
-<li>Activate GeoIP to calamares installer for timezone</li>
-<li>Open terminal maximized</li>
-<li>Set auto update time and set to local time</li>
+### 0.9 (2024-11-27)
+
+
+### 0.10 (date)

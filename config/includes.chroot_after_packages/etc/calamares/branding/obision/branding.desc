@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         Obision
     shortProductName:    Obision
-    version:             0.9
-    shortVersion:        0.9
-    versionedName:       Obision 0.9
-    shortVersionedName:  Obision 0.9
+    version:             0.10
+    shortVersion:        0.10
+    versionedName:       Obision 0.10
+    shortVersionedName:  Obision 0.10
     bootloaderEntryName: Obision boot
     productUrl:          https://obision.com
 
