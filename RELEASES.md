@@ -77,6 +77,5 @@
 <li>Added contrib and non-free in sources.list repositories</li>
 <li>Super+T shortcut opens the terminal</li>
 <li>Activate GeoIP to calamares installer for timezone</li>
-<li>Open terminal maximized from icon </li>
-<li>Openterminal maximized from shortcut Super + T</li>
+<li>Open terminal maximized</li>
 <li>Set auto update time and set to local time</li>
