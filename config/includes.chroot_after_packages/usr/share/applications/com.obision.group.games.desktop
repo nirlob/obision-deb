@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Games
+Comment=Install games group
+OnlyShowIn=GNOME;Unity;
+Exec=/usr/share/applications/groups-for-install/games.sh
+Icon=/usr/share/applications/groups-for-install/icons/aisleriot.png
+StartupNotify=false
+Terminal=false
+Type=Application
