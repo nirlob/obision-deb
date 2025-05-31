@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Games
-Comment=Install games group
+Name=GNOME Builder
+Comment=Install GNOME Builder IDE 
 OnlyShowIn=GNOME;Unity;
-Exec=/usr/share/applications/groups-for-install/games.sh
-Icon=/usr/share/applications/groups-for-install/icons/aisleriot.png
+Exec=xdg-open /usr/share/applications/apps-for-install/org.gnome.Builder.flatpakref
+Icon=/usr/share/applications/apps-for-install/icons/gnome-builder.png
 StartupNotify=false
-Terminal=true
+Terminal=false
 Type=Application

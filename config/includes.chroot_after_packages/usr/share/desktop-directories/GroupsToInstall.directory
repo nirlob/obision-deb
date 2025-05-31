@@ -1,9 +1,8 @@
 [Desktop Entry]
-Name=GNOME Builder
-Comment=Install GNOME Builder IDE 
-OnlyShowIn=GNOME;Unity;
-Exec=xdg-open /usr/share/applications/apps-for-install/org.gnome.Builder.flatpakref
-Icon=/usr/share/applications/apps-for-install/icons/gnome-builder.png
-StartupNotify=false
-Terminal=false
-Type=Application
+Name[es]=Grupos instalables
+Name=Installable groups
+Comment[es]=Grupos para instalar
+Comment=Groups for install
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=applications-utilities
+Type=Directory
