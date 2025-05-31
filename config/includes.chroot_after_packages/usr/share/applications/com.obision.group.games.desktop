@@ -5,5 +5,5 @@ OnlyShowIn=GNOME;Unity;
 Exec=/usr/share/applications/groups-for-install/games.sh
 Icon=/usr/share/applications/groups-for-install/icons/aisleriot.png
 StartupNotify=false
-Terminal=false
+Terminal=true
 Type=Application
