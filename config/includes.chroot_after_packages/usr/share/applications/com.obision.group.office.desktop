@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Office
+Name[es]=Oficina
+Comment=Installs office applications
+Comment[es]=Instala aplicaciones para oficina
+OnlyShowIn=GNOME;Unity;
+Exec=/usr/share/applications/groups-for-install/office.sh
+Icon=/usr/share/applications/groups-for-install/icons/office.png
+StartupNotify=false
+Terminal=true
+Type=Application

@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Muestra el dialogo para introducir contraseña para sudo. No estoy seguro si funciona bien. Hay que probarlo.
+#pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY apt install -y steam-devices
+
 # Install packages for games
 sudo apt install -y steam-devices
 
