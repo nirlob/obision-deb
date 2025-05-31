@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name[es]=Oficina
+Name=Office
+Comment[es]=Aplicaciones de oficina
+Comment=Office applications
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=applications-utilities
+Type=Directory

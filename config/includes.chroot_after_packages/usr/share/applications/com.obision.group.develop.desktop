@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Develop
+Name[es]=Desarrollo
+Comment=Installs develop applications
+Comment[es]=Instala aplicaciones para desarrollo
+OnlyShowIn=GNOME;Unity;
+Exec=/usr/share/applications/groups-for-install/develop.sh
+Icon=/usr/share/applications/groups-for-install/icons/develop.png
+StartupNotify=false
+Terminal=true
+Type=Application

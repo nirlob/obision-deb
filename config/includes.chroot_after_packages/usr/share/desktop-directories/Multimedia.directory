@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name[es]=Multimedia
+Name=Multimedia
+Comment[es]=Aplicaciones multimedia
+Comment=Multimedia applications
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=applications-utilities
+Type=Directory

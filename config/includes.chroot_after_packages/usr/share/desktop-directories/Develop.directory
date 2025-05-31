@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name[es]=Desarrollo
+Name=Development
+Comment[es]=Aplicaciones de desarrollo
+Comment=Development applications
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=applications-utilities
+Type=Directory

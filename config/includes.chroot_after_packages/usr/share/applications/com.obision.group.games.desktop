@@ -1,9 +1,11 @@
 [Desktop Entry]
-Name=GNOME Builder
-Comment=Install GNOME Builder IDE 
+Name=Games
+Name[es]=Juegos
+Comment=Install games applications
+Comment[es]=Instala aplicaciones para juegos
 OnlyShowIn=GNOME;Unity;
 Exec=/usr/share/applications/groups-for-install/games.sh
-Icon=/usr/share/applications/apps-for-install/icons/gnome-builder.png
+Icon=/usr/share/applications/groups-for-install/icons/games.png
 StartupNotify=false
-Terminal=false
+Terminal=true
 Type=Application
