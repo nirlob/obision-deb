@@ -1,0 +1,14 @@
+{
+  "files.watcherExclude": {
+    "**/.build/**": true,
+    "**/chroot/**": true,
+    "**/local/**": true,
+    "**/cache/**": true
+  },    
+  "search.exclude": {
+    "**/.build": true,
+    "**/chroot": true,
+    "**/local": true,
+    "**/cache": true
+  }
+}
