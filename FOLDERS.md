@@ -20,7 +20,7 @@ Configuration of GNome applications and extensions
 ## After packages
 
 ### config/includes.chroot_after_packages/usr/share/icons/desktop-base
-Incons for about gnome config panel
+Icons for about gnome config panel
 
 ### config/includes.chroot_after_packages/usr/lib
 Release data file
