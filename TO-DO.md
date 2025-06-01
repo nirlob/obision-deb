@@ -23,4 +23,4 @@
 - Mirar plymouth para mostrar pantalla de carga antes, ahora tarda un poco en salir
 - Con varios monitores si se aumenta la escala en la primera pantall tambien se aumenta en la segunda
 - Quitar referencias a debian-installer (Si no se instala no sale el icono de instalacion al arrancar en modo live)
-- Generar carpeta en pantalla de aplicaciones para meta-paquetes como desarrollo, juegos, multimedia, oficina, etc. y si se puede crear carpeta para aplicaciones instaladas
+- Generar carpeta en pantalla de aplicaciones para meta-paquetes como desarrollo, juegos, multimedia, oficina, etc. y si se puede crear carpeta para aplicaciones instaladas.
