@@ -83,3 +83,4 @@
 ### 0.10 (date)
 <li>Added folder in GNOME applications screen for install applications groups</li>
 <li>When install applications group generates a folder with group name and applications inside</li>
+<li>Fix boot live in EFI</li>
