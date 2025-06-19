@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Install live build
-      run: apt install live-build
+      run: sudo apt install live-build
 
     - name: Build ISO image
-      run: lb build
+      run: sudo lb build
