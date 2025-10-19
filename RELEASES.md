@@ -83,4 +83,6 @@
 ### 0.10 (date)
 <li>Added folder in GNOME applications screen for install applications groups</li>
 <li>When install applications group generates a folder with group name and applications inside</li>
-<li>Update to Debian 13</li>
+<li>Update system to Debian 13</li>
+<li>Update gnome extensions for GNOME 48</li>
+<li>Update kernel verion for EFI boot</li>

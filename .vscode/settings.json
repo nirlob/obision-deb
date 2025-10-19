@@ -4,11 +4,26 @@
     "**/chroot/**": true,
     "**/local/**": true,
     "**/cache/**": true
-  },    
+  },
   "search.exclude": {
     "**/.build": true,
     "**/chroot": true,
     "**/local": true,
     "**/cache": true
-  }
+  },
+  "terminal.integrated.profiles.linux": {
+    "bash (host)": {
+      "path": "/usr/bin/bash",
+      "args": [
+        "-l"
+      ],
+      "icon": "terminal-bash"
+    },
+    "bash": {
+      "path": "/bin/bash",
+      "icon": "terminal-bash"
+    },
+  },
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.env.linux": {}
 }

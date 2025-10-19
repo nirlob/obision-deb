@@ -1,13 +1,1 @@
-cache/
-.build/
-binary/
-chroot/
-local/
-
-binary.modified_timestamps
-build.log
-chroot.*
-obision-*
-.lock
-
-!obision-logo.png
+cache

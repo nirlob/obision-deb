@@ -92,7 +92,7 @@ LB_MEMTEST="none"
 LB_LOADLIN="true"
 
 # Set win32-loader
-LB_WIN32_LOADER="true"
+LB_WIN32_LOADER="false"
 
 # Set net tarball
 LB_NET_TARBALL="true"
